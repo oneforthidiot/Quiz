@@ -77,7 +77,7 @@ function showScores() {
  
 // create questions here
 var questions = [
-    new Question("From Which Movie was Captain America worthy of Mjolnir?", ["The Avengers", "Age of Ultron","Infinity War", "End Game"], "Age of Ultron"),
+    new Question("From Which Movie was Captain America worthy of Mjolnir?", ["The Avengers", "Age of Ultron","Infinity War", "EndGame"], "Age of Ultron"),
     new Question("Who sacrificed himself/herself to get the Soul Stone?", ["Hawkeye ", "Caption Marvel","Black Widow", "Iron Man "], "Black Widow"),
     new Question("Who was the villain in spiderman – homecoming?", ["Ned", "Black Spiderman","Vulture", "Rhino"], "Vulture"),
     new Question("What is the first name of Doctor Strange?", ["Stevens", "Stephens","Connor", "Bruce"], "Stephens"),
